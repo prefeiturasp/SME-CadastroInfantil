@@ -1,0 +1,6 @@
+[submodule "SME-CadastroInfantil-FrontEnd"]
+	path = SME-CadastroInfantil-FrontEnd
+	url = https://github.com/prefeiturasp/SME-CadastroInfantil-FrontEnd
+[submodule "SME-CadastroInfantil-BackEnd"]
+	path = SME-CadastroInfantil-BackEnd
+	url = https://github.com/prefeiturasp/SME-CadastroInfantil-BackEnd
