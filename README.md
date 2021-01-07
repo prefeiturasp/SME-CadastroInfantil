@@ -15,21 +15,19 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
 
 1.  [Sobre o Produto](#sobre-o-produto)
 
-2.  [Sobre o Time](#sobre-o-time)
+2.  [Como surgiu](#como-surgiu)
 
-3.  [Como surgiu](#como-surgiu)
+3.  [Links Úteis](#links-úteis)
 
-4.  [Links Úteis](#links-úteis)
+4.  [Comunicação](#comunicação)
 
-5.  [Comunicação](#comunicação)
+5.  [Como contribuir](#como-contribuir)
 
-6.  [Como contribuir](#como-contribuir)
+6.  [Repositórios](#repositórios)
 
-7.  [Repositórios](#repositórios)
+7.  [Documentações Auxiliares](#documentações-auxiliares)
 
-8.  [Documentações Auxiliares](#documentações-auxiliares)
-
-9.  [Instalação e Configuração](#instalação-e-configuração)
+8.  [Instalação e Configuração](#instalação-e-configuração)
 
 ## Sobre o Produto
 
@@ -65,14 +63,14 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 ### [](#personas)Personas
 
-**Quem:**: Famílias e responsáveis
+**Quem:** Famílias e responsáveis
 **Características principais:** público bastante heterogêneo que gostaria de cadastrar as crianças na Educação Infantil da rede pública
 **Necessidades:** garantir uma vaga da educação infantil próximo a sua residência e realizar o cadastro com facilidade para a rede municipal inteira
 
-**Quem:**: técnicos das Diretorias Regionais de Educação (DREs)
+**Quem:** técnicos das Diretorias Regionais de Educação (DREs)
 **Necessidades:** receber da SME os cadastros realizados no sistema
 
-**Quem:**: servidores da Secretaria Municipal de Educação (SME)
+**Quem:** servidores da Secretaria Municipal de Educação (SME)
 **Necessidades:** encaminhar cadastro para as DREs responsáveis inserirem o cadastro no sistema e acompanhar se todos os cadastros foram realizados
 
 ### [](#funcionalidades)Funcionalidades
@@ -92,17 +90,6 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 ### [](#roadmap)Roadmap
 
 Não há roadmap previsto, uma vez que a evolução desse produto é realizar o cadastro diretamente via Eol.
-
-## [](#sobre-o-time)Sobre o Time:
-
-| Papel | Titular | Suplente  
-|--|--|--|  
-| Product Owner | André Sanches e Fátima Abrão | |  
-| Agente de Governança | Vítor Ferragini | Fernando Gonsales |  
-| Gerente de Projeto | Aline Freitas | |  
-| Scrum Master | Marcos Nastri | |  
-| Analista de negócios | Fabrício Ramalho | |  
-| Analista Programador | @CalvinRossinhole, @giusepper11, @kelwys | | 
 
 ## [](#como-surgiu)Como surgiu
 
