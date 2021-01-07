@@ -122,8 +122,6 @@ https://hom-cadastroinfantil.sme.prefeitura.sp.gov.br/
 https://cadastroinfantil.sme.prefeitura.sp.gov.br/
 ## [](#comunicacao)Comunicação:
 
-## Comunicação:
-
 | Canal de comunicação | Objetivos |
 |----------------------|-----------|
 | [Issues do Github](https://github.com/prefeiturasp/SME-CadastroInfantil/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
