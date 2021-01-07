@@ -1,29 +1,21 @@
+# Estratégia de Transformação Digital e Governo Aberto na SME
 
+Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas. 
 
+A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. 
+Com isso, pretendemos: 
+- aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais; 
+- instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais; 
+- fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade; 
+- promover espaços e metodologias de colaboração entre governo, academia, sociedade civil e setor privado. 
 
-# SME-CadastroInfantil
-
-# Cadastro Infantil
-
-> Para as  **famílias e responsáveis dos estudantes**
-
-> Que  **gostariam de inscrever as crianças na Educação Infantil sem a necessidade do atendimento presencial**
-
-> O  **Cadastro Infantil**
-
-> É um  **formulário online**
-
-> Que  **possibilita o pré-cadastro na rede municipal de educação**
-
-> Diferentemente da **necessidade de atendimento presencial**
-
-> O Nosso produto  **possibilita que as famílias registrem o interesse de ingresso na Educação Infantil**
+O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf) é uma das ferramentas para operacionalização. Baseado em um modelo de contratação inspirado pelos movimentos ágil e de Software Craftsmanship, trabalhamos com equipes multidisciplinares para o desenvolvimento de produtos que beneficiam toda a comunidade escolar (técnicos da SME e DREs, gestores, professores, alunos e famílias) e concretizam os objetivos da Estratégia de Transformação Digital e Governo Aberto “Pátio Digital”.
 
 **Conteúdo:**
 
-1.  [Sobre o Time](#sobre-o-time)
+1.  [Sobre o Produto](#sobre-o-produto)
 
-2.  [Sobre o Produto](#sobre-o-produto)
+2.  [Sobre o Time](#sobre-o-time)
 
 3.  [Como surgiu](#como-surgiu)
 
@@ -39,20 +31,23 @@
 
 9.  [Instalação e Configuração](#instalação-e-configuração)
 
-----------
+## Sobre o Produto
 
-## [](#sobre-o-time)Sobre o Time:
+### Visão de Futuro
 
-| Papel | Titular | Suplente  
-|--|--|--|  
-| Product Owner | André Sanches, Fátima Abrão | |  
-| Agente de Governança | Vítor Ferragini | Fernando |  
-| Gerente de Projeto | Aline Freitas | |  
-| Scrum Master | Marcos Nastri | |  
-| Analista de negócios | Fabrício Ramalho | |  
-| Analista Programador | @CalvinRossinhole, @giusepper11, @kelwys | |  
+> Para as  **famílias e responsáveis dos estudantes**
 
-## [](#sobre-o-produto)Sobre o Produto
+> Que  **gostariam de inscrever as crianças na Educação Infantil sem a necessidade do atendimento presencial**
+
+> O  **Cadastro Infantil**
+
+> É um  **formulário online**
+
+> Que  **possibilita o pré-cadastro na rede municipal de educação**
+
+> Diferentemente da **necessidade de atendimento presencial**
+
+> O Nosso produto  **possibilita que as famílias registrem o interesse de ingresso na Educação Infantil** 
 
 ### [](#objetivos-de-negocio)Objetivos de Negócio
 
@@ -70,21 +65,15 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 ### [](#personas)Personas
 
-- Famílias e responsáveis:
+**Quem:**: Famílias e responsáveis
+**Características principais:** público bastante heterogêneo que gostaria de cadastrar as crianças na Educação Infantil da rede pública
+**Necessidades:** garantir uma vaga da educação infantil próximo a sua residência e realizar o cadastro com facilidade para a rede municipal inteira
 
-> Necessidades: público bastante heterogêneo que gostaria de cadastrar as crianças na Educação Infantil da rede pública
+**Quem:**: técnicos das Diretorias Regionais de Educação (DREs)
+**Necessidades:** receber da SME os cadastros realizados no sistema
 
-> O que consideram valioso: garantir uma vaga da educação infantil próximo a sua residência e realizar o cadastro com facilidade para a rede municipal inteira
-
-- DRE:
-
-> Necessidade: receber da SME os cadastros realizados no sistema
-
-- SME:
-
-> Necessidade: encaminhar cadastro para as DREs responsáveis inserirem o cadastro no sistema
-
-> O que consideram valioso: acompanhar se todos os cadastros foram realizados
+**Quem:**: servidores da Secretaria Municipal de Educação (SME)
+**Necessidades:** encaminhar cadastro para as DREs responsáveis inserirem o cadastro no sistema e acompanhar se todos os cadastros foram realizados
 
 ### [](#funcionalidades)Funcionalidades
 
@@ -104,13 +93,22 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 Não há roadmap previsto, uma vez que a evolução desse produto é realizar o cadastro diretamente via Eol.
 
+## [](#sobre-o-time)Sobre o Time:
+
+| Papel | Titular | Suplente  
+|--|--|--|  
+| Product Owner | André Sanches e Fátima Abrão | |  
+| Agente de Governança | Vítor Ferragini | Fernando Gonsales |  
+| Gerente de Projeto | Aline Freitas | |  
+| Scrum Master | Marcos Nastri | |  
+| Analista de negócios | Fabrício Ramalho | |  
+| Analista Programador | @CalvinRossinhole, @giusepper11, @kelwys | | 
+
 ## [](#como-surgiu)Como surgiu
 
 ### [](#fase-de-descoberta)Fase de Descoberta:
 
-Surgiu da necessidade das famílias e responsáveis realizarem o cadastro na Educação Infantil da rede municipal de ensino durante o período que as escolas estavam com horário reduzido por conta da pandemia.
-
-Com essa situação, identificou-se a possibilidade de criação de um modelo remoto de cadastro para garantir o atendimento a todas as famílias que buscam uma vaga na Educação Infantil na rede municipal.
+Surgiu da necessidade das famílias e responsáveis realizarem o cadastro na Educação Infantil da rede municipal de ensino durante o período que as escolas estavam com horário reduzido por conta da pandemia. Com essa situação, identificou-se a possibilidade de criação de um modelo remoto de cadastro para garantir o atendimento a todas as famílias que buscam uma vaga na Educação Infantil na rede municipal.
 
 **Entrevista com a área de negócio:**
 
@@ -137,17 +135,19 @@ https://hom-cadastroinfantil.sme.prefeitura.sp.gov.br/
 https://cadastroinfantil.sme.prefeitura.sp.gov.br/
 ## [](#comunicacao)Comunicação:
 
-Canal de comunicação
+## Comunicação:
 
-E-mail:
-- Alinhamento sobre o produto.
-- Comunicar novidades sobre o produto.
+| Canal de comunicação | Objetivos |
+|----------------------|-----------|
+| [Issues do Github](https://github.com/prefeiturasp/SME-CadastroInfantil/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
 
+## Como contribuir
 
-
-## [](#como-contribuir)Como contribuir
-
-Contribuições são **super bem vindas**! Se você tem vontade de construir o pré cadastro infantil conosco, veja o nosso  [guia de contribuição](https://github.com/prefeiturasp/SME/blob/master/docs/CONTRIBUTING.md)  onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir nosso  [código de conduta](https://github.com/prefeiturasp/SME/blob/master/docs/CODEOFCONDUCT.md).
+Contribuições são **super bem vindas**! Se você tem vontade de construir o
+Cadastro Infantil conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md)
+onde explicamos detalhadamente como trabalhamos e de que formas você pode nos
+ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir 
+nosso [código de conduta](./CODEOFCONDUCT.md).
 
 ## [](#repositorios)Repositórios:
 
