@@ -25,9 +25,7 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
 
 6.  [Repositórios](#repositórios)
 
-7.  [Documentações Auxiliares](#documentações-auxiliares)
-
-8.  [Instalação e Configuração](#instalação-e-configuração)
+7.  [Instalação e Configuração](#instalação-e-configuração)
 
 ## Sobre o Produto
 
@@ -141,10 +139,6 @@ https://github.com/prefeiturasp/SME-CadastroInfantil-FrontEnd
 
 [SME-CADASTRO INFANTIL - BACK]
 https://github.com/prefeiturasp/SME-CadastroInfantil-BackEnd
-
-## [](#documentacoes-auxiliares)Documentações Auxiliares:
-
-Não se aplica.
 
 ## [](#instalacao-e-configuracao)Instalação e Configuração:
 
