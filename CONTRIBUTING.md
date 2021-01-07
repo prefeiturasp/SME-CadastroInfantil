@@ -16,7 +16,7 @@ Existem diversas formas de contribuir com o projeto:
 
 ### Reportando bugs
 
-Se encontrou um bug no SME-PTRF você pode reportá-lo usando a ferramenta de
+Se encontrou um bug no Cadastro Infantil você pode reportá-lo usando a ferramenta de
 [issues do GitHub](https://github.com/prefeiturasp/SME-CadastroInfantil/issues). Porém antes
 de enviar seu bug é importante fazer as seguintes verificações:
 
@@ -183,7 +183,7 @@ entender melhor sobre esta decisão veja
 Se você não trabalha com código mas quer ajudar existem muitas outras
 formas de contribuir:
 
-- Fale sobre O Cadastro Infantil nas suas redes sociais, blogs, etc. Espalhe a palavra;
+- Fale sobre o Cadastro Infantil nas suas redes sociais, blogs, etc. Espalhe a palavra;
 - Crie material promocional como apresentações, screencasts, mídia para
   compartilhamento em redes sociais, etc;
 - Viu alguma discussão que te interessa e onde você pode acrescentar mesmo sem
