@@ -2,8 +2,8 @@
 
 Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas. 
 
-A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. 
-Com isso, pretendemos: 
+A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. Com isso, pretendemos: 
+
 - aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais; 
 - instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais; 
 - fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade; 
@@ -45,7 +45,7 @@ Diferentemente da **necessidade de atendimento presencial**
 
 O Nosso produto **possibilita que as famílias registrem o interesse de ingresso na Educação Infantil** 
 
-## [](#objetivos-de-negocio)Objetivos de Negócio
+## Objetivos de Negócio
 
 O Cadastro Infantil é um formulário online para realização do pré-cadastro de crianças na Educação Infantil da rede municipal de educação. Com isso, a SME apoia as orientações dos órgãos de saúde de evitar aglomerações e garante maior facilidade e agilidade no momento de inscrição.
 
@@ -59,7 +59,7 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 - Não realiza todo o processo de matrícula que deve ser seguido de acordo com legislação
 
-## [](#personas)Personas
+## Personas
 
 **Quem:** Famílias e responsáveis
 **Características principais:** público bastante heterogêneo que gostaria de cadastrar as crianças na Educação Infantil da rede pública
@@ -71,11 +71,11 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 **Quem:** servidores da Secretaria Municipal de Educação (SME)
 **Necessidades:** encaminhar cadastro para as DREs responsáveis inserirem o cadastro no sistema e acompanhar se todos os cadastros foram realizados
 
-## [](#funcionalidades)Funcionalidades
+## Funcionalidades
 
 - Formulário de cadastro de interesse, com e-mail automatizado de confirmação de realização de cadastro
 
-## [](#jornadas)Jornadas
+## Jornadas
 
 - Família faz cadastro
 
@@ -85,13 +85,13 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 - SME envia e-mail para cadastrante com número do protocolo pelo e-mail próprio do Cadastro Infantil
 
-### [](#roadmap)Roadmap
+## Roadmap
 
 Não há roadmap previsto, uma vez que a evolução desse produto é realizar o cadastro diretamente via Eol.
 
-# [](#como-surgiu)Como surgiu
+# Como surgiu
 
-## [](#fase-de-descoberta)Fase de Descoberta:
+## Fase de Descoberta:
 
 Surgiu da necessidade das famílias e responsáveis realizarem o cadastro na Educação Infantil da rede municipal de ensino durante o período que as escolas estavam com horário reduzido por conta da pandemia. Com essa situação, identificou-se a possibilidade de criação de um modelo remoto de cadastro para garantir o atendimento a todas as famílias que buscam uma vaga na Educação Infantil na rede municipal.
 
@@ -103,15 +103,15 @@ Não houve etapa oficial de descoberta por conta da urgência da demanda, mas ex
 
 Não houve oficina de ateste com usuários finais, mas existiram diversos testes internos para melhorias no produto antes do lançamento e também melhorias identificadas a partir de experiências com os primeiros cadastros.
 
-## [](#prototipos)Protótipos:
+## Protótipos:
 
 O protótipo foi criado a partir de documentos produzidos pela área com as informações necessárias para a realização do cadastro infantil.
 
-## [](#testes-de-usabilidade)Testes de Usabilidade:
+## Testes de Usabilidade
 
 Não houve oficina de ateste com usuários finais, mas existiram diversos testes internos para melhorias no produto antes do lançamento e também melhorias identificadas a partir de experiências com os primeiros cadastros.
 
-# [](#links-uteis)Links Úteis:
+# Links Úteis
 
 **Homologação:**
 https://hom-cadastroinfantil.sme.prefeitura.sp.gov.br/
@@ -119,7 +119,7 @@ https://hom-cadastroinfantil.sme.prefeitura.sp.gov.br/
 **Produção:**
 https://cadastroinfantil.sme.prefeitura.sp.gov.br/
 
-# [](#comunicacao)Comunicação:
+# Comunicação
 
 | Canal de comunicação | Objetivos |
 |----------------------|-----------|
@@ -127,13 +127,9 @@ https://cadastroinfantil.sme.prefeitura.sp.gov.br/
 
 # Como contribuir
 
-Contribuições são **super bem vindas**! Se você tem vontade de construir o
-Cadastro Infantil conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md)
-onde explicamos detalhadamente como trabalhamos e de que formas você pode nos
-ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir 
-nosso [código de conduta](./CODEOFCONDUCT.md).
+Contribuições são **super bem vindas**! Se você tem vontade de construir o Cadastro Infantil conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md) onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir  nosso [código de conduta](./CODEOFCONDUCT.md).
 
-# [](#repositorios)Repositórios:
+# Repositórios
 
 [SME-CADASTRO INFANTIL - FRONT]
 https://github.com/prefeiturasp/SME-CadastroInfantil-FrontEnd
@@ -148,15 +144,14 @@ https://github.com/prefeiturasp/SME-CadastroInfantil-BackEnd
 -   npm
 -   git
 
-Instruções
----------------
+## Instruções
 
 Após clonar o projeto, execute o comando para instalar as bibliotecas utilizadas:
 
     $ npm install
   
-Configurando as variáveis de ambiente
----------------------------
+## Configurando as variáveis de ambiente
+
 Crie um arquivo *.env* na raiz do projeto. Nele, utilize a variável **REACT_APP_API_URL** com o endereço do backend para realizar as requisições.
 
     conf
@@ -165,8 +160,8 @@ Crie um arquivo *.env* na raiz do projeto. Nele, utilize a variável **REACT_APP
     src
     .env
 
-Execução do projeto
--------------
+## Execução do projeto
+
 Para rodar o projeto, basta:
 
     $ npm start
