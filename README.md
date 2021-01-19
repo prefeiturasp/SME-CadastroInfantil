@@ -68,7 +68,7 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 ### Técnicos das Diretorias Regionais de Educação (DREs)
 
-0 **Necessidades:** receber da SME os cadastros realizados no sistema
+- **Necessidades:** receber da SME os cadastros realizados no sistema
 
 ### Servidores da Secretaria Municipal de Educação (SME)
 
