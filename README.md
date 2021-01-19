@@ -61,15 +61,18 @@ O Cadastro Infantil é um formulário online para realização do pré-cadastro 
 
 ## Personas
 
-**Quem:** Famílias e responsáveis
-**Características principais:** público bastante heterogêneo que gostaria de cadastrar as crianças na Educação Infantil da rede pública
-**Necessidades:** garantir uma vaga da educação infantil próximo a sua residência e realizar o cadastro com facilidade para a rede municipal inteira
+### Famílias e responsáveis
 
-**Quem:** técnicos das Diretorias Regionais de Educação (DREs)
-**Necessidades:** receber da SME os cadastros realizados no sistema
+- **Características principais:** público bastante heterogêneo que gostaria de cadastrar as crianças na Educação Infantil da rede pública
+- **Necessidades:** garantir uma vaga da educação infantil próximo a sua residência e realizar o cadastro com facilidade para a rede municipal inteira
 
-**Quem:** servidores da Secretaria Municipal de Educação (SME)
-**Necessidades:** encaminhar cadastro para as DREs responsáveis inserirem o cadastro no sistema e acompanhar se todos os cadastros foram realizados
+### Técnicos das Diretorias Regionais de Educação (DREs)
+
+0 **Necessidades:** receber da SME os cadastros realizados no sistema
+
+### Servidores da Secretaria Municipal de Educação (SME)
+
+- **Necessidades:** encaminhar cadastro para as DREs responsáveis inserirem o cadastro no sistema e acompanhar se todos os cadastros foram realizados
 
 ## Funcionalidades
 
